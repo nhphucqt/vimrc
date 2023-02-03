@@ -21,6 +21,8 @@ set number
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
 
+set backspace=indent,eol,start
+
 " Set tab width to 4 columns.
 set tabstop=4
 set softtabstop=4
